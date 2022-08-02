@@ -1,0 +1,39 @@
+{
+    "home": {
+        "intro": {
+            "nothingUpcoming": "Kein Event Geplant"
+        },
+        "about": {
+            "title": "Über Mich"
+        },
+        "youtube": {
+            "title": "In The Mix"
+        },
+        "clothes": {
+            "title": "Kleidung",
+            "shirt": "Mattley Shirt",
+            "description": "Die Rohlinge bestehen komplett aus Baumwolle und sind von \"Fair Wair\", \"GRS\", \"GOTS\" verfiziert. Bedruckt wurden\ndie Shirts im Landkreis Biberach, also alles lokal!",
+            "cotton": "100% Baumwolle",
+            "order": "Über E-Mail bestellen",
+            "subject": "T-Shirt Bestellung",
+            "body": "Hallo Matze du geile Sau,\n\nich würde gerne eines dieser geilen T-Shirts bestellen.\n\nGibt es noch eines in Größe {{selectedSize}}?\n\nViele Grüße"
+        },
+        "gallery": {
+            "title": "Gallerie"
+        },
+        "spotify": {
+            "title": "Playlists"
+        },
+        "others": {
+            "title": "Sonstiges"
+        }
+    },
+    "legalNotice": {
+        "title": "Impressum",
+        "representedBy": "Verteten durch",
+        "postalAddress": "Postanschrift",
+        "contact": "Kontakt",
+        "email": "E-Mail",
+        "back": "Zurück"
+    }
+}
